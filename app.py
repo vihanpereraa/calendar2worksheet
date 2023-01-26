@@ -21,8 +21,9 @@ sheet.getRange(i+2,4).setValue(location)
 
 Logger.log("Events added.");
 
-
-
+Logger.log("Verison1")
+##this is only vrsion 1 it doesn't automatically update the sheets if you rsvp
+#yes or convert the time to  hours/minutes
 
 }
 
