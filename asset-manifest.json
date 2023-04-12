@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calendar2worksheet/static/css/main.4253e5b2.css",
+    "main.js": "/calendar2worksheet/static/js/main.b465f692.js",
+    "index.html": "/calendar2worksheet/index.html",
+    "main.4253e5b2.css.map": "/calendar2worksheet/static/css/main.4253e5b2.css.map",
+    "main.b465f692.js.map": "/calendar2worksheet/static/js/main.b465f692.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4253e5b2.css",
+    "static/js/main.b465f692.js"
+  ]
+}
